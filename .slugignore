@@ -1,0 +1,8 @@
+src/
+*.ts
+!*.d.ts
+tsconfig.json
+eslint.config.mjs
+.git/
+.gitignore
+README.md
